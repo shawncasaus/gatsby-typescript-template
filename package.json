@@ -1,0 +1,50 @@
+{
+  "name": "shawn-portfolio-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "shawn-portfolio-site",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "eslint": "^8.25.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-react-app": "^7.0.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "gatsby": "^4.24.0",
+    "gatsby-plugin-eslint": "^4.0.2",
+    "gatsby-plugin-google-analytics": "^4.24.0",
+    "gatsby-plugin-image": "^2.24.0",
+    "gatsby-plugin-sharp": "^4.24.0",
+    "gatsby-plugin-sitemap": "^5.24.0",
+    "gatsby-source-filesystem": "^4.24.0",
+    "gatsby-transformer-sharp": "^4.24.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.45",
+    "@types/react": "^18.0.21",
+    "@types/react-dom": "^18.0.6",
+    "@typescript-eslint/eslint-plugin": "^5.40.0",
+    "@typescript-eslint/parser": "^5.40.0",
+    "add": "^2.0.6",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-xo": "^0.42.0",
+    "eslint-config-xo-typescript": "^0.53.0",
+    "eslint-plugin-react": "^7.31.8",
+    "eslint-webpack-plugin": "^3.2.0",
+    "or": "^0.2.0",
+    "prettier": "2.7.1",
+    "typescript": ">=4.4",
+    "yarn": "^1.22.19"
+  }
+}
